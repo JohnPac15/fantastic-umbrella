@@ -10,7 +10,8 @@ router.get('/', (req, res) => {
     include: [
       {
         model: Product,
-      }]
+      }
+    ]
 
   })
   .then(dbCategoryData => res.json(dbCategoryData))
@@ -75,8 +76,14 @@ router.delete('/:id', (req, res) => {
       id: req.params.id
     },
   })
-  .then(dbCategoryData => res.json(dbCategoryData))
-  .catch((err) => {
+  .then(dbCategoryData => {
+    if (!dbCategoryData) {
+      res.status(404).json({ message: 'No user found with this id' });
+      return;
+    }
+    res.json(dbCategoryData);
+  })
+  .catch(err => {
     console.log(err);
     res.status(500).json(err);
   });
