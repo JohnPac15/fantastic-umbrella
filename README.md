@@ -1,6 +1,6 @@
  # Readme Generate
  ## Description 
- TBD
+ Fantastic-umbrellas is a backend for an e-commerce website that uses the latest technology. Fantastic-umbrella is built with MYSQL2, express.js, dotenv, and     Sequelize. This application would be useful for anyone trying to keep data organized and maintainable for any amount of data. 
  ## Table of Contents
  * [Installation](#installation)
  * [Usage](#usage)
@@ -61,9 +61,18 @@ run npm intall, then npm run seed, next, npm start
  ### 4. Permanent Ban
  **Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.
  ## Testing 
+ https://watch.screencastify.com/v/ztJjSlNdNPTRmXsnSKZm
+ https://watch.screencastify.com/v/qgu7Lmmp98pTy34lApwz
+ https://watch.screencastify.com/v/ybAwapalE9WfhzJAdpAo
 
  ## Questions 
  Made by John Pacini
 
  Github - https://github.com/Johnpac15
  Email - Johnpac15@yahoo.com
+ 
+ <img width="1552" alt="Screen Shot 2022-02-05 at 12 03 16 AM" src="https://user-images.githubusercontent.com/88564390/152630764-f80fe46b-616a-4028-9858-1c90eab2fd8e.png">
+<img width="1552" alt="Screen Shot 2022-02-05 at 12 03 02 AM" src="https://user-images.githubusercontent.com/88564390/152630768-6fa33277-8751-41ed-90db-238ca1d6ff55.png">
+<img width="1552" alt="Screen Shot 2022-02-05 at 12 02 54 AM" src="https://user-images.githubusercontent.com/88564390/152630769-fb5b26ef-6578-465d-ac09-f592fea8818d.png">
+<img width="1552" alt="Screen Shot 2022-02-04 at 11 53 15 PM" src="https://user-images.githubusercontent.com/88564390/152630771-d959c4fb-46c8-4335-8d47-49bdc8762c9c.png">
+<img width="1552" alt="Screen Shot 2022-02-04 at 11 47 47 PM" src="https://user-images.githubusercontent.com/88564390/152630773-0e90e16c-329d-4eb6-81b7-6cae35d657ab.png">
